@@ -1,1 +1,1 @@
-# gangadhar-nageswar.github.io
+This is the source code to Gangadhar Nageswar's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
